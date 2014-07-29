@@ -2,8 +2,7 @@ Voice Recorder Breakout - ISD1932
 =================================
 
 [![Part Name](https://cdn.sparkfun.com//assets/parts/5/4/3/0/10653-01b.jpg)
-
-*Voice Recorder  Breakout - ISD1932 (BOB-10653)*](https://www.sparkfun.com/products/10653)
+ *Voice Recorder  Breakout - ISD1932 (BOB-10653)*](https://www.sparkfun.com/products/10653)
 
 This is a breakout board for the ISD1932, a multiple-message record/playback device. 
 
